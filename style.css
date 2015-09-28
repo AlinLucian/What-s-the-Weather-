@@ -1,0 +1,32 @@
+h2 {
+  padding-top: 1.5em;
+  padding-bottom: 1.5em;
+  text-align: center;
+  font-size: 3em;
+}
+
+p {
+  text-transform: capitalize;
+  color: black;
+}
+
+.jumbotron {
+  text-align: center;
+  opacity: 0.4;
+  box-shadow: 5px 5px 5px 0px;
+  margin-right: 1em
+}
+
+.vertical-align {
+  height: 10em;
+  display: flex;
+  align-items: center;
+}
+
+#toggle {
+  opacity: 0.8;
+}
+
+body {
+  overflow-x: hidden;
+}
